@@ -14,6 +14,6 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-안녕하세요
+안녕하세요 fork로 수정했습니다!
 </body>
 </html>
